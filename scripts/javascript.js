@@ -1,12 +1,12 @@
 var loginModal = $("#loginModal").modal('hide');
 var registerModal = $("#registerModal").modal('hide');
 
-$('[data-target="loginModal"]').on('mouseover', function () {
+$('[data-target="loginModal"]').on('click', function () {
   registerModal.modal('hide');
   loginModal.modal('show');
 });
 
-$('[data-target="registerModal"]').on('mouseover', function () {
+$('[data-target="registerModal"]').on('click', function () {
   loginModal.modal('hide');
   registerModal.modal('show');
 });
