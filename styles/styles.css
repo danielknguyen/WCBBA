@@ -22,6 +22,7 @@
   font-size:18px;
   color:#FFFFFF;
 }
-.nav-link:hover {
-	background-color:#000000;
+
+#loginButtonContainer {
+  margin-bottom: 10px;
 }
