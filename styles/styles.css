@@ -57,3 +57,7 @@
    background: url('../photos/basketball_15.png')no-repeat center;
 
 }
+
+#loginButtonContainer {
+  margin-bottom: 10px;
+}
