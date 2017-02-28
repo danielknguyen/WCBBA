@@ -86,8 +86,44 @@
 .container-footer {
 	background-color: #6C7A89;
 	display: flex;
-	flex-direction: row;
-	justify-content:flex-end;
+	flex-direction: column;
+	justify-content:center;
+	justify-content:space-around;
+	align-items:center;
 	width: 100%;
-	height: 50px;
+	height:200px;
+}
+.copyright {
+	color:#FFFFFF;
+}
+.social-media {
+	font-size:36px;
+	background-color:#ECECEC;
+	border-radius:20px;
+	padding:10px 20px;
+}
+.email-us {
+	color:#000000;
+}
+.fb-us {
+	color:#4267b2;
+}
+.t-us {
+	color:#1da1f2;
+}
+.delicious-us {
+	color:#E54D42;
+}
+.stumble-us {
+	color:rgb(235, 73, 36);
+}
+.more-us {
+	color:rgb(255, 101, 80);
+}
+.powered-by-p {
+	margin-top:10px;
+}
+.powered-by-container {
+	background-color:#ECECEC;
+	width:100%;
 }
