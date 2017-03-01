@@ -105,16 +105,60 @@
 .email-us {
 	color:#000000;
 }
+.email-us-link {
+	color:#000000;
+}
+.email-us-link:hover {
+	color:#000000;
+	opacity:.7;
+}
+.email-us-link:visited {
+	color:#000000;
+}
 .fb-us {
 	color:#4267b2;
 }
 .t-us {
 	color:#1da1f2;
 }
-.delicious-us {
+.digg-us-link {
+	color:#000000;
+}
+.digg-us-link:hover {
+	color:#000000;
+	opacity:.7;
+}
+.digg-us-link:visited {
+	color:#000000;
+}
+.delicious-us-link {
 	color:#E54D42;
 }
-.stumble-us {
+.delicious-us-link:hover {
+	color:#E54D42;
+	opacity:.8;
+}
+.delicious-us-link:visited {
+	color:#E54D42;
+}
+.myspace-us-link {
+	color:#000000;
+}
+.myspace-us-link:hover {
+	color:#000000;
+	opacity:.7;
+}
+.myspace-us-link:visited {
+	color:#000000;
+}
+.stumble-us-link {
+	color:rgb(235, 73, 36);
+}
+.stumble-us-link:hover {
+	color:rgb(235, 73, 36);
+	opacity:.7;
+}
+.stumble-us-link:visited {
 	color:rgb(235, 73, 36);
 }
 .more-us {
